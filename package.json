@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/bless4/chat-app#readme",
   "dependencies": {
+    "bad-words": "^3.0.2",
     "express": "^4.16.4",
     "nodemon": "^1.18.11",
     "socket.io": "^2.2.0"
